@@ -1,0 +1,27 @@
+{
+  "name": "react-native-template-gsr-ts",
+  "version": "1.0.0",
+  "description": "React Native typescript template to create quick projects",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gleydson/react-native-template-gsr-ts.git"
+  },
+  "keywords": [
+    "react-native",
+    "typescript",
+    "template",
+    "eslint",
+    "react-navigation",
+    "axios",
+    "redux",
+    "redux-saga",
+    "styled-components",
+    "react-native-vector-icons"
+  ],
+  "author": "Gleydson Rodrigues <gleydsonsr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gleydson/react-native-template-gsr-ts/issues"
+  },
+  "homepage": "https://github.com/gleydson/react-native-template-gsr-ts#readme"
+}
